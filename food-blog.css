@@ -1,0 +1,30 @@
+
+        header {
+            background: url(https://s1.1zoom.me/b5050/368/Cakes_Chocolate_Black_background_Piece_573738_2560x1440.jpg);
+            background-size: cover;
+            background-position: center;
+            min-height: 850px;
+        }
+        @media screen and (max-width:600px){
+            header{
+                min-height:500px;
+            }
+        }
+        .section{
+            padding-top: 4vw;
+            padding-bottom: 4vw;
+          }
+          #project-info{
+              position: absolute;
+              left:15px;top:15px;
+          }
+          #form-b{
+            position: absolute;
+            right:15px;top:15px;
+        }
+        ul.a {
+            list-style-type: circle;
+        }
+        p {
+            text-align: justify;
+        }
