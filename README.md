@@ -28,4 +28,4 @@ FoodNinjas is a project made in order to apply all the HTML, CSS, JavaScript and
 - PHP Documentations - https://www.php.net/
 
 
-#### _Preview the FoodNinjas Website here :_ http://foodninjas.epizy.com/
+#### _Preview the FoodNinjas Website here :_ http://food-ninja.epizy.com/
